@@ -20,6 +20,5 @@ public class Main {
         tab[a][b] = a * b;
 
         System.out.println(("Tablica: " + Arrays.toString(tab[a]) + " " + Arrays.toString(tab[b])));
-
     }
 }
